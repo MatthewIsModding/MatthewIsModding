@@ -2,7 +2,7 @@
 - 👀 I’m interested in modding.
 - 🌱 I’m currently learning how to mod.
 - 💞️ I’m looking to collaborate on mods and games.
-- 📫 How to reach me : Discord: MatthewIsOP#5953
+- 📫 How to reach me : Discord: matthewpatty_
 
 <!---
 MatthewIsModding/MatthewIsModding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
